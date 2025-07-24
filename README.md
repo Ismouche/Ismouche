@@ -5,7 +5,7 @@
 <br>
 
 <div align="center"> 
-  <h2>💻 Tech Stack:</h2>
+  <h2>🛠️ Tech Stack:</h2>
 </div>
 
 <p align="center">
@@ -15,17 +15,17 @@
 <br>
 
 <div align="center"> 
-  <h2>💻 Tools:</h2>
+  <h2>🧰 Tools:</h2>
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,discord,github,pr" />
 </p>
 
 <br>
 
 <div align="center"> 
-  <h2>📊 Stats:</h2>
+  <h2>📈 Stats:</h2>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 </div> 
 
 <div align="center"> 
-  <h2>🧩 Socials:</h2>
+  <h2>🔗 Socials:</h2>
 </div>
 
 <div align="center">
