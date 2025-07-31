@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,py" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,py,bots" />
 </p>
 
 <br>
