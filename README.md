@@ -1,48 +1,48 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=500&color=F7F7F7&center=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Isma%C3%ABl+...%E2%80%8B;I+enjoy+coding+all+sorts+of+things" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&lines=Hey+%2C%F0%9F%91%8B+I'm+Isma%C3%ABl" alt="Typing SVG" /></a>
 </h1>
-
-<br>
-
-<div align="center"> 
-  <h2>🛠️ Tech Stack:</h2>
-</div>
-
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&lines=I+enjoy+coding+all+sort+of+things." />
+  </a>
+  </p>
+<div align="center">
+<h2>⌨️ Learning ⌨️</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,py,bots" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+
 </p>
 
-<br>
-
-<div align="center"> 
-  <h2>🧰 Tools:</h2>
 </div>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,github,pr" />
+<div align="center">
+  <h2> 💻 Tech Stack 💻 </h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.js&logoColor=%23ffffff&color=%235FA04E" alt="NodeJS">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Riot%20API-Red?style=for-the-badge&logo=riotgames&logoColor=%230000000&color=%23EB0029" alt="Riot API">
+    <img src= "https://img.shields.io/badge/Discord%20JS-blue?style=for-the-badge&logo=discorddotjs&logoColor=%235865F2&color=%23000000" alt="Discord JS">
+  </p>
+  <div align="center">
+<h2> 🔧 Tools 🔧 </h2>
+  <p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=%235865F2&color=%23000000" alt="Discord" />
+  <img src="https://img.shields.io/badge/Terminus-black?style=for-the-badge&logo=termius&logoColor=%23ffffff&color=%23000000" alt="Terminus" >
 </p>
-
-<br>
-
-<div align="center"> 
-  <h2>📈 Stats:</h2>
-</div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismouche&theme=dark&show_icons=true&hide_border=true" height="150" alt="Shinow's GitHub stats" style="display: inline-block;"  />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismouche&layout=compact&theme=dark&show_icons=true&hide_border=true" alt="Top Languages" style="display: inline-block;" />
-</div> 
-
-<div align="center"> 
-  <h2>🔗 Socials:</h2>
-</div>
-
-<div align="center">
-  <a href="https://discord.com/users/793825519786393620">
-    <img src="https://lanyard.cnrad.dev/api/793825519786393620?idleMessage=Might%20be%20coding&ignoreAppId=1386820738375487578&showDisplayName=true&theme=dark&bg=061439&hideStatus=true" alt="Discord Presence" />
-  </a>
-  <a href="https://open.spotify.com/user/316nesz3fdxryymdmvkuyv5lefde?si=15d1442687b84dcc">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316nesz3fdxryymdmvkuyv5lefde&count=3&unique=true" alt="Spotify recently played"  />
+  <h2> 📊 Github Stats 📊 </h2>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Ismouche&theme=dark&hide_border=false" 
+      alt="GitHub Streak Stats" 
+    />
   </a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ismoucheicon=0&color=0)](https://visitcount.itsvg.in)
