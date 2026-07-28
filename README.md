@@ -34,14 +34,6 @@
   <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=%235865F2&color=%23000000" alt="Discord" />
   <img src="https://img.shields.io/badge/Terminus-black?style=for-the-badge&logo=termius&logoColor=%23ffffff&color=%23000000" alt="Terminus" >
 </p>
-<div align="center">
-  <h2> 📊 Github Stats 📊 </h2>
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Ismouche&theme=dark&hide_border=false" 
-      alt="GitHub Streak Stats" 
-    />
-  </a>
 </div>
 
 ---
