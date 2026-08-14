@@ -32,7 +32,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=%235865F2&color=%23000000" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   <img src="https://img.shields.io/badge/Terminus-black?style=for-the-badge&logo=termius&logoColor=%23ffffff&color=%23000000" alt="Terminus" />
   <img src= "https://img.shields.io/badge/DBeaver-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" >
 </p>
