@@ -25,7 +25,8 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Riot%20API-Red?style=for-the-badge&logo=riotgames&logoColor=%230000000&color=%23EB0029" alt="Riot API" />
     <img src= "https://img.shields.io/badge/Discord%20JS-blue?style=for-the-badge&logo=discorddotjs&logoColor=%235865F2&color=%23000000" alt="Discord JS" />
-    <img src= "https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" >
+    <img src= "https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src= "https://img.shields.io/badge/SQLite-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" >
   </p>
   <div align="center">
 <h2> 🔧 Tools 🔧 </h2>
