@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" >
 
 </p>
 
@@ -21,10 +21,11 @@
 <div align="center">
   <h2> 💻 Tech Stack 💻 </h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.js&logoColor=%23ffffff&color=%235FA04E" alt="NodeJS">
+    <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node.js&logoColor=%23ffffff&color=%235FA04E" alt="NodeJS" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Riot%20API-Red?style=for-the-badge&logo=riotgames&logoColor=%230000000&color=%23EB0029" alt="Riot API">
-    <img src= "https://img.shields.io/badge/Discord%20JS-blue?style=for-the-badge&logo=discorddotjs&logoColor=%235865F2&color=%23000000" alt="Discord JS">
+    <img src="https://img.shields.io/badge/Riot%20API-Red?style=for-the-badge&logo=riotgames&logoColor=%230000000&color=%23EB0029" alt="Riot API" />
+    <img src= "https://img.shields.io/badge/Discord%20JS-blue?style=for-the-badge&logo=discorddotjs&logoColor=%235865F2&color=%23000000" alt="Discord JS" />
+    <img src= "https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" >
   </p>
   <div align="center">
 <h2> 🔧 Tools 🔧 </h2>
